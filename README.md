@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 My name is Tang Thanh Vui. I am a Senior AI engineer at Sporttotal. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-vui-b70937252/))
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-vui-b70937252/)])
