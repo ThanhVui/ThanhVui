@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
 
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Tang Thanh Vui. I am a AI engineer. I am interested in the following topics: NLP, LLM.<br>
