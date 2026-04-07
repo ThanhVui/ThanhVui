@@ -11,15 +11,15 @@
 </p>
 
 <p align="center">
-  <em style="color:#B0C7FF;">A passionate developer who loves to build and break things</em>
   <em style="color:#B0C7FF;">I am an AI engineer. I am interested in the following topics: NLP, LLM.</em>
+  <!-- <em style="color:#B0C7FF;">A passionate developer who loves to build and break things</em> -->
 </p>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hwangnhdev&style=flat-square&color=00E5FF" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/hwangnhdev?style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/hwangnhdev?style=social" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=ThanhVui&style=flat-square&color=00E5FF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/ThanhVui?style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/ThanhVui?style=social" alt="GitHub Stars"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,fastapi,nestjs,docker,aws&theme=dark"/>
 </p>
 <p align="center">
@@ -51,11 +51,11 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,vscode,idea,notion&theme=dark"/>
-</p> -->
+</p>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p> -->
+</p>
 
 
 ## 🚀 About Me
@@ -65,7 +65,7 @@
 - Passionate about building **real-world scalable systems**
 - Debugging enthusiast at **3 AM**
 
-📫 **Email:** `hwang.huyhoang@gmail.com`
+📫 **Email:** `thanhvuikg100@gmail.com`
 
 
 ## Skills
@@ -114,24 +114,32 @@
 
 ## 🧩 Featured Projects
 
-🚗 **Car Detection & Tracking System** _(03/2026)_  
-🔗 https://github.com/hwangnhdev/car-detection-autonomous-driving-yolo.git  
-> Python · YOLO · OpenCV · Computer Vision  
+**Generate-Text2Image-Stable-Diffusion**  
+🔗 https://github.com/ThanhVui/Generate-Text2Image-Stable-Diffusion  
+> Jupyter Notebook · Stable Diffusion · Text-to-Image
 
-🌱 **Plant Disease Classification (EfficientNetV2B1)** _(02/2026)_  
-🔗 https://github.com/hwangnhdev/plant-disease-classification-efficientnetv2b1.git  
-> Python · TensorFlow · CNN · EfficientNet  
+**Google-Translate-Text-Speech**  
+🔗 https://github.com/ThanhVui/Google-Translate-Text-Speech  
+> Python · Google Translate API · Text-to-Speech
 
-🎫 **Booking Seats Cinema Website** _(02/2025 – 03/2025)_  
-🔗 https://github.com/hwangnhdev/tickify  
-> JSP / Servlet · VNPay · MVC · SQL Server  
+**Chat-Bot**  
+🔗 https://github.com/ThanhVui/Chat-Bot  
+> Python · NLP · Chatbot
+
+**Face-Emotion-Detect-ResEmoteNet_RAF_DB**  
+🔗 https://github.com/ThanhVui/Face-Emotion-Detect-ResEmoteNet_RAF_DB  
+> Jupyter Notebook · ResEmoteNet · Facial Emotion Recognition
+
+**Booking** & **Tickify-Booking-ETicket-Website**  
+🔗 https://github.com/ThanhVui/Tickify-Booking-ETicket-Website  
+> Java · Backend · Booking System
 
 
 ## ⚙️ GitHub Analytics
 <p align="center">
-  <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HwangNHDev&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HwangNHDev&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+  <a href="https://github.com/ThanhVui">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThanhVui&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThanhVui&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
   </a>
 </p>
 
@@ -139,5 +147,5 @@
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hwangnhdev&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanhVui&theme=tokyo-night"/>
 </p>
