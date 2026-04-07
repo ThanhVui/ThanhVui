@@ -116,55 +116,46 @@
 
 ## 🧩 Featured Projects
 
-**Generate-Text2Image-Stable-Diffusion**  
-🔗 https://github.com/ThanhVui/Generate-Text2Image-Stable-Diffusion  
-Jupyter Notebook · Stable Diffusion · Text-to-Image  
-→ A basic Text-to-Image generation application using the Stable Diffusion model from Hugging Face. Users can generate images from text prompts with Hugging Face authentication.
+<a href="https://github.com/ThanhVui/Generate-Text2Image-Stable-Diffusion">
+  <!-- Change the domain to github-readme-stats.vercel.app if needed -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Generate-Text2Image-Stable-Diffusion&theme=radical" />
+</a>
 
-**Google-Translate-Text-Speech**  
-🔗 https://github.com/ThanhVui/Google-Translate-Text-Speech  
-Python · Google Translate API · gTTS · Tkinter  
-→ A simple translator and text-to-speech application supporting English, Vietnamese, and Japanese. The app translates text and converts it into natural speech with a clean Tkinter GUI.
+<a href="https://github.com/ThanhVui/Google-Translate-Text-Speech">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Google-Translate-Text-Speech&theme=merko" />
+</a>
 
-**Chat-Bot**  
-🔗 https://github.com/ThanhVui/Chat-Bot  
-Python · NLP · BERT · GPT  
-→ An intelligent chatbot that can read PDF files, extract content, and answer user questions based on the document using BERT and GPT models.
+<a href="https://github.com/ThanhVui/Chat-Bot">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Chat-Bot&theme=gruvbox" />
+</a>
 
-**Face-Emotion-Detect-ResEmoteNet_RAF_DB**  
-🔗 https://github.com/ThanhVui/Face-Emotion-Detect-ResEmoteNet_RAF_DB  
-Jupyter Notebook · ResEmoteNet · Deep Learning  
-→ Facial Emotion Recognition model trained on the RAF-DB dataset using the ResEmoteNet architecture to classify human emotions from face images.
+<a href="https://github.com/ThanhVui/Face-Emotion-Detect-ResEmoteNet_RAF_DB">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Face-Emotion-Detect-ResEmoteNet_RAF_DB&theme=dark" />
+</a>
 
-**Leaf-Disease-EfficientNetV2B0-Transfer-Learning**  
-🔗 https://github.com/ThanhVui/Leaf-Disease-EfficientNetV2B0-Transfer-Learning  
-Python · TensorFlow · Keras · Gradio · EfficientNetV2B0  
-→ Plant leaf disease classification using transfer learning with EfficientNetV2B0. Includes a user-friendly Gradio web interface and Grad-CAM visualization for model explainability.
+<a href="https://github.com/ThanhVui/Leaf-Disease-EfficientNetV2B0-Transfer-Learning">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Leaf-Disease-EfficientNetV2B0-Transfer-Learning&theme=onedark" />
+</a>
 
-**Autonomous_Driving_Application_Car_Detection**  
-🔗 https://github.com/ThanhVui/Autonomous_Driving_Application_Car_Detection  
-Jupyter Notebook · YOLOv2 · YOLOv3 · TensorFlow · Object Detection  
-→ Car detection system for autonomous driving applications using multiple YOLO models (YOLOv2, YOLOv3, and YOLOv3-tiny). Supports detection on images and videos with training and evaluation scripts.
+<a href="https://github.com/ThanhVui/Autonomous_Driving_Application_Car_Detection">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Autonomous_Driving_Application_Car_Detection&theme=synthwave" />
+</a>
 
-**Satisfaction_Score_Optimize_Camera**  
-🔗 https://github.com/ThanhVui/Satisfaction_Score_Optimize_Camera  
-Python · Flask · PyTorch · OpenCV · MediaPipe · Docker  
-→ Real-time facial emotion recognition from camera feed to calculate customer satisfaction scores. Built with Flask backend and containerized using Docker for easy deployment.
+<a href="https://github.com/ThanhVui/Satisfaction_Score_Optimize_Camera">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Satisfaction_Score_Optimize_Camera&theme=highcontrast" />
+</a>
 
-**Malicious_Backlink_Predict_AI_API_DEV**  
-🔗 https://github.com/ThanhVui/Malicious_Backlink_Predict_AI_API_DEV  
-Python · PhoBERT · FastAPI/Flask · Docker · PyTorch  
-→ AI-powered API for detecting malicious backlinks using the Vietnamese language model PhoBERT. Designed for production use with Docker support.
+<a href="https://github.com/ThanhVui/Malicious_Backlink_Predict_AI_API_DEV">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Malicious_Backlink_Predict_AI_API_DEV&theme=dracula" />
+</a>
 
-**Tickify-Booking-ETicket-Website**  
-🔗 https://github.com/ThanhVui/Tickify-Booking-ETicket-Website  
-Java · Spring Boot · JavaScript · CSS  
-→ Full-featured E-Ticket Booking Website developed with Java Spring Boot backend, allowing users to browse, book, and manage electronic tickets.
+<a href="https://github.com/ThanhVui/Tickify-Booking-ETicket-Website">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Tickify-Booking-ETicket-Website&theme=radical" />
+</a>
 
-**Booking**  
-🔗 https://github.com/ThanhVui/Booking  
-Java · JavaScript · CSS · SQL  
-→ Hotel Room Booking System built with Java backend and SQL database, supporting room reservation, management, and user-friendly web interface.
+<a href="https://github.com/ThanhVui/Booking">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Booking&theme=merko" />
+</a>
 
 ## ⚙️ GitHub Analytics
 <p align="center">
