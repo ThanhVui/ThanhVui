@@ -5,7 +5,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Backend+Developer;LLMs+%7C+Microservices+%7C+System+Design;Building+real-world%2C+scalable+systems;Debugging+at+3+AM+is+my+superpower"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Backend+Developer;LLMs+%7C+Computer+Vision+%7C+Intelligent+Systems;AI+Applications;Backend+Systems+%7C+Microservices+%7C+AI+Products;Real-world+AI+Problem+Solving;Hands-on+Projects+%7C+Certifications"
     alt="Typing SVG"
   />
 </p>
@@ -34,10 +34,11 @@
 </p>
 
 ## 🚀 About Me
-- Learning **AI Engineering, LLMs & System Design**
-- Focus on **Backend APIs, Microservices, AI-powered Products**
-- Passionate about building **real-world scalable systems**
-- Debugging enthusiast at **3 AM**
+- AI-focused Software Engineer exploring **LLMs, Computer Vision, and Intelligent Systems**
+- Experienced in building **AI applications**
+- Interested in scalable **backend systems, microservices, and AI-driven products**
+- Passionate about solving **real-world problems using AI**
+- Continuously learning and improving through **hands-on projects and certifications**
 
 📫 **Email:** `thanhvuikg100@gmail.com`
 
