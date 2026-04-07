@@ -1,12 +1,7 @@
-## WELCOME TO MY GITHUB PAGE 👋👋👋
-My name is Tang Thanh Vui. I am an AI engineer. I am interested in the following topics: NLP, LLM.<br>
-## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)  LinkedIn](https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-vui-b70937252/)
-
-
+<h1 align="center" style="color:#00E5FF;">WELCOME TO MY GITHUB PAGE 👋👋👋</h1>
 
 <!-- HEADER -->
-<h1 align="center" style="color:#00E5FF;">Hi, I'm HwangNHDev 👋</h1>
+<h1 align="center" style="color:#00E5FF;">Hi, I'm Tang Thanh Vui 👋</h1>
 
 <p align="center">
   <img 
@@ -17,6 +12,7 @@ My name is Tang Thanh Vui. I am an AI engineer. I am interested in the following
 
 <p align="center">
   <em style="color:#B0C7FF;">A passionate developer who loves to build and break things</em>
+  <em style="color:#B0C7FF;">I am an AI engineer. I am interested in the following topics: NLP, LLM.</em>
 </p>
 
 <!-- BADGES -->
