@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/tăng-thành-vui-b70937252/">
+  <a href="https://www.linkedin.com/in/t%C4%83ng-th%C3%A0nh-vui-b70937252/">
     <img src="https://img.shields.io/badge/LinkedIn-0A1B3D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
   </a>
   <a href="https://www.instagram.com/tngth_vui/">
