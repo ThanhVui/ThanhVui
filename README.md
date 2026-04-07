@@ -22,11 +22,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nguyen-huy-hoang-738205281/">
+  <a href="www.linkedin.com/in/tăng-thành-vui-b70937252/">
     <img src="https://img.shields.io/badge/LinkedIn-0A1B3D?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
   </a>
-  <a href="https://www.instagram.com/_hyhng.uoa._/">
+  <a href="https://www.instagram.com/tngth_vui/">
     <img src="https://img.shields.io/badge/Instagram-0A1B3D?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+  </a>
+  <a href="https://www.facebook.com/vui.tang.102/">
+    <img src="https://img.shields.io/badge/Facebook-0A1B3D?style=for-the-badge&logo=facebook&logoColor=00E5FF" alt="Facebook"/>
   </a>
 </p>
 
