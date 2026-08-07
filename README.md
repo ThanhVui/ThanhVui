@@ -114,10 +114,10 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F61?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge)
 
-## 🧩 Featured Projects
+<!-- ## 🧩 Featured Projects
 
 <a href="https://github.com/ThanhVui/Generate-Text2Image-Stable-Diffusion">
-  <!-- Change the domain to github-readme-stats.vercel.app if needed -->
+  <!-- Change the domain to github-readme-stats.vercel.app if needed ->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Generate-Text2Image-Stable-Diffusion&theme=radical" />
 </a>
 
@@ -155,7 +155,7 @@
 
 <a href="https://github.com/ThanhVui/Booking">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ThanhVui&repo=Booking&theme=merko" />
-</a>
+</a> -->
 
 ## ⚙️ GitHub Analytics
 <p align="center">
